@@ -1,2 +1,2 @@
-# tinyone
- one page site
+# Disclaimer 
+Робота над проектом не закінчена
